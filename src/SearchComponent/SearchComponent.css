@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap");
+
+main {
+  position: relative;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 75rem;
+  height: 35rem;
+  z-index: 2;
+}
+
+h1 {
+  font-family: "Mona Sans", sans-serif;
+  font-weight: 400;
+  margin-inline-start: 10px;
+  font-size: 55px;
+}
+
+img {
+  margin-top: 30px;
+  width: 90px;
+  height: 90px;
+}
+
+#search {
+  display: flex;
+  justify-content: center;
+  height: 9%;
+  width: 45%;
+}
+
+input{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  text-align: center;
+
+  background-color: white;
+  font-family: 'Mona Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: black;
+}

@@ -1,14 +1,12 @@
 import './App.css'
-import LogoComponent from './LogoComponent/LogoComponent'
+import PageComponent from './PageComponent/PageComponent'
 
 function App() {
 
   return (
     <>
-      <div id='backgroudSearch'>
-      <LogoComponent></LogoComponent>
-
-      </div>
+      <PageComponent>
+      </PageComponent>
     </>
   )
 }

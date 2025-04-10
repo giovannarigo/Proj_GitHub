@@ -1,13 +1,5 @@
 body{
-  background-image: url('./assets/Backgroud.jpg');
+  background-color: #1f1f1f;
   display: flex;
   justify-content: center;
-  }
-
-#backgroudSearch{
-  background-color: black;
-  width: 65rem;
-  height: 30rem;
-  
-
 }
