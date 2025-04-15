@@ -1,12 +1,23 @@
-# React + Vite
+# Projeto de Pesquisas de Perfis no GitHub - Teste Técnico Avanti
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é projeto consiste em um buscador de perfis do GitHub desenvolvido em React, permitindo que os usuários pesquisem perfis do GitHub inserindo o nome de usuário na barra de pesquisa. Ele exibe informações básicas dos usuários como nome, biografia e avatar do usuário, além de mensagens de erro caso o perfil não seja encontrado. O design é responsivo e utiliza SCSS para estilização.
 
-Currently, two official plugins are available:
+## Imagens do Projeto
+<div>
+  <img src="https://github.com/user-attachments/assets/4599d6bb-ec51-4730-b14a-334d837e8577" alt="image" width="500" height="250" />
+  <img src="https://github.com/user-attachments/assets/3a95311f-f1fe-4100-8658-1b44dd246e60" alt="image" width="500" height="250" />
+  <img src="https://github.com/user-attachments/assets/5cd96b16-4fcd-45f6-8821-f6f482334191" alt="image" width="500" height="250" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Técnologias utilizadas
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" heigth="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" heigth="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50" heigth="50"/>
+  
+</div>
+          
+          
