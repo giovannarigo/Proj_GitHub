@@ -1,12 +1,12 @@
 import './App.css'
-import PageComponent from './PageComponent/PageComponent'
+import MainComponent from './pages/MainComponent/MainComponent'
 
 function App() {
 
   return (
     <>
-      <PageComponent>
-      </PageComponent>
+      <MainComponent>
+      </MainComponent>
     </>
   )
 }
